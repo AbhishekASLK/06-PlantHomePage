@@ -1,11 +1,11 @@
-# CryptoLandingPage
+# PlantHomePage
 
-> - TakeOut : How to add vertical line using div in Navbar
+> - TakeOut : Use of Flexbox
 
-> - Time Required : 3 hours !
+> - Time Required : 5 hours !
 
 > - Result :
 
 <br>
 
-![Result](CryptoLandingPage.png)
+![Result](PlantHomePage.png)
